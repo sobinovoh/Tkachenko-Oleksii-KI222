@@ -1,8 +1,9 @@
 # depslib dependency file v1.0
-1677107082 source:d:\tkachenko-oleksii-ki222\lab08\prj\testdriver\main.cpp
+1677156681 source:d:\tkachenko-oleksii-ki222\lab08\prj\tkachenkooy-task\main.cpp
 	<iostream>
+	<windows.h>
+	<iomanip>
 	<ModulesTkachenkoOY.h>
-	<cmath>
 
 1677103573 d:\tkachenko-oleksii-ki222\lab08\prj\modulestkachenkooy.h
 
